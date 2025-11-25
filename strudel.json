@@ -1,4 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/NamekPenndog/samples/main/",
   "vox": ["2B3.wav", "2B4.wav","2B5.wav","2B6.wav","2B7.wav","2B8.wav","2B9.wav","2B10.wav","2B11.wav","2B12.wav"]
+  "wobble": ["dubstep-wobble-bass-line_139bpm_B_minor.wav"]
+  "fvocals" : ["female-dry-vocals-dnb_120bpm_D#_minor.wav"]
+  "kick" : ["crunchy-dubstep-kick.wav","kick-08.wav"]
+  "gits" : ["cyborgslikemyself.wav","idied","realme","seenyourownbrain","thatrobotdidweseemsimilar.wav","theimportanceofbeinghuman.wav","thinkiam.wav"]
+  "amen" : ["quick-amen-break-drum-pattern_160bpm.wav"]
 }
